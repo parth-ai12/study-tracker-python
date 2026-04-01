@@ -35,7 +35,7 @@ python main.py
 
 ## 📸 Example Output
 
-Screenshort.png
+![Output Preview](Screenshort.png)
 
 ---
 
