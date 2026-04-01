@@ -1,0 +1,11 @@
+def save_data():
+    with open("data.json", "w") as file:
+        json.dump(sessions, file)
+
+def load_data():
+    global sessions
+    try:
+        with open("data.json", "r") as file:
+            sessions = json.load(file)
+    except:
+        sessions = []
