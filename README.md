@@ -50,4 +50,4 @@ python main.py
 
 ## 🙌 Author
 
-Your Name Here
+Parth Rawat
