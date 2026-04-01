@@ -1,5 +1,10 @@
 # 📚 Study Tracker (Python)
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Made By](https://img.shields.io/badge/Made%20By-Parth%20Rawat-orange)
+
 A simple beginner-friendly Study Tracker built using Python.
 This app helps you record and view your daily study sessions.
 
