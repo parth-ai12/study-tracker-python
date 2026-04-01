@@ -35,11 +35,7 @@ python main.py
 
 ## 📸 Example Output
 
-```
-1. Add Study Session
-2. View Sessions
-3. Exit
-```
+Screenshort.png
 
 ---
 
